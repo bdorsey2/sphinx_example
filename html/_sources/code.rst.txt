@@ -1,0 +1,4 @@
+Auto Generated Code Documentation
+=================================
+.. automodule:: hw1_Dorsey_Brian
+    :members:
